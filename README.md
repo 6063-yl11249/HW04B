@@ -9,7 +9,7 @@ Key Features:
 5. Clear Canvas.  
 
 Thinking Process:
-![Thinking process](images/#0 process.jpg)
+![Process](./0process.jpg)  
 
 Hard Part:
 Generate random colors from the designed palette.  
