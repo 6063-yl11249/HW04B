@@ -35,3 +35,10 @@ Project overview: In this project, I found an illustration design featuring a bl
 Reference:
 ![Reference](./IMG_5084.jpg)
 
+Hard Part:  
+![wrongcolorcode](./wrongcolorcode.png)
+I put the wrong code for color setting on the last line of the code. So the shapes all look in black tone, like this:
+![wrongcolorcode](./Wrong2.png)
+
+Haven't finished yet. Still working on this project.
+
